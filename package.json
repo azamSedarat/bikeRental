@@ -1,0 +1,22 @@
+{
+  "name": "bikerental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azamSedarat/bikeRental.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azamSedarat/bikeRental/issues"
+  },
+  "homepage": "https://github.com/azamSedarat/bikeRental#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
